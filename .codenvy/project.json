@@ -1,0 +1,1 @@
+{"runners":{"configs":{"system:/java/standalone/simple/cli":{"variables":{},"ram":0,"options":{}}},"default":"system:/java/standalone/simple/cli"},"builders":{"default":"ant"},"type":"ant","attributes":{}}
