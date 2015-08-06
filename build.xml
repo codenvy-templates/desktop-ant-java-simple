@@ -4,6 +4,8 @@
     <property location="${basedir}/build" name="build"/>
     <property location="${build}/classes" name="build.classes"/>
     <property location="${basedir}/src" name="src.dir"/>
+    <property name="ant.build.javac.source" value="1.7"/>
+    <property name="ant.build.javac.target" value="1.7"/>
     <path id="libs.dir">
         <fileset dir="lib" includes="**/*.jar"/>
     </path>
