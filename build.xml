@@ -29,7 +29,7 @@
             </manifest>
         </jar>
     </target>
-    <!--Clean up-->
+    <!--Clean test up-->
     <target description="Remove all temporary files" name="clean">
         <!--Delete files-->
         <delete dir="${build.classes}"/>
